@@ -1,0 +1,14 @@
+or create a new repository on the command line
+echo "# AOS-GSAP" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/fajrin007/AOS-GSAP.git
+git push -u origin main
+========================================================================
+
+
+Your site is ready to be published at https://fajrin007.github.io/AOS-GSAP/
+ kalau tidak muncul tunggu beberapa menit sampai 5 menit, jika masih belum muncul tambahkan ketik /index.html 
+ini hasilnya : https://fajrin007.github.io/AOS-GSAP/index.html
